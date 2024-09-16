@@ -20,6 +20,8 @@ public class GitHubTutorial
         b = random.nextInt(10+1);
         System.out.println("a = " + a + " b = " + b);
         System.out.println("a + b = " + a + b);
+        
+        System.out.println("My age is: " + a + b);
     }
     
 }
